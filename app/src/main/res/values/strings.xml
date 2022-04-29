@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppDev-Assignment5</string>
+    <string-array name="spinnerarray">
+        <item>MR.WUHAN</item>
+        <item>ICH</item>
+    </string-array>
+
+</resources>
